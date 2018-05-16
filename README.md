@@ -4,5 +4,5 @@ Tujuan penulisan final project ini untuk mempelajari, merancang Sistem menggunak
 anggota kelompok 11 :
 
 Hendriansyah Santosa(16.11.0077)  
-Hari Prasetyo (16.11.0107) 
+Hari Prasetyo (16.11.0107)  
 Ferdilyan Yanuar P( 16.11.0113)
