@@ -125,3 +125,127 @@ body{
 .center{
 	align-content: center;
 }
+
+.bgrn1{
+	background-color: black;
+	width: 98.5vw;
+	height: 300px;
+	clear: both;
+	margin-top: 410px;
+}
+.lgo1{
+	height: 150px;
+	width: 200px;
+}
+
+.lgo2{
+	height: 150px;
+	width: 200px;
+}
+
+.lgo3{
+	height: 140px;
+	width: 200px;
+}
+
+.lgo4{
+	height: 159px;
+	width: 200px;
+}
+
+.center{
+	margin-top: 40px;
+	margin-left: 10px;
+}
+@font-face{
+	font-family: "PG_Roof Runners_bold";
+	src: url("../fonts/PG_Roof Runners_bold.ttf");
+	
+}
+
+
+.ff{
+	font-family: "PG_Roof Runners_bold";
+	text-align: center;
+	color: #fff;
+	padding-top: 10px;
+}
+.bgrn2{
+	background-color: #fff;
+	width: 98.5vw;
+	height: 398px;
+	clear: both;
+	margin-top: 0px;
+}
+.triangles{
+	/*background-color: #D3D3D3;*/
+	height: 0px;
+	width: 0px;
+	position: absolute;
+	border-bottom: 180px solid transparent;
+	border-left: 180px solid #D3D3D3;
+
+}	
+@font-face{
+	font-family: "SHOWG";
+	src: url("../fonts/SHOWG.ttf");
+}
+.f1{
+	font-family: "SHOWG";
+	color: #fff;
+	position: relative;
+	margin-left: -177px;
+	font-size: 41pt;
+}
+.f2{
+	font-family: "SHOWG";
+	color: #fff;
+	position: relative;
+    margin-left: -174px;
+    font-size: 31pt;
+    margin-top: -18px;
+}
+.borderlist{
+	width: 235px;
+    height: 325px;
+    border: 2px solid #D3D3D3;
+    margin-left: 140px;
+    margin-top: 33px;
+    -webkit-box-shadow: 6px 6px 26px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 6px 26px -4px rgba(0,0,0,0.75);
+box-shadow: 6px 6px 26px -4px rgba(0,0,0,0.75);
+}
+.borderlist1{
+	width: 235px;
+    height: 325px;
+    border: 2px solid #D3D3D3;
+    margin-left: 70px;
+    margin-top: 33px;
+    -webkit-box-shadow: 6px 6px 26px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 6px 26px -4px rgba(0,0,0,0.75);
+box-shadow: 6px 6px 26px -4px rgba(0,0,0,0.75);
+}
+.img2{
+	height: 259px;
+    width: 217px;
+    padding-left: 17px;
+    margin-top: 11px;
+}
+.img3{
+    height: 282px;
+    width: 234px;
+    padding-left: 1px;
+    margin-top: -16px;
+}
+.img4{
+    height: 219px;
+    width: 195px;
+    padding-left: 33px;
+    margin-top: 5px;
+}
+.img5{
+    height: 194px;
+    width: 232px;
+    padding-left: 0px;
+    margin-top: 1px;
+}
