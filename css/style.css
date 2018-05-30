@@ -101,6 +101,8 @@ body{
 	border:1px solid;
 	border-radius: 10px;
 	border-color: #fff;
+	margin-top: 7px;
+    margin-left: 40px;
 
 }
 .logoreg{
@@ -248,4 +250,87 @@ box-shadow: 6px 6px 26px -4px rgba(0,0,0,0.75);
     width: 232px;
     padding-left: 0px;
     margin-top: 1px;
+}
+@font-face{
+	font-family: "panforte";
+	src: url("../fonts/panforte.ttf");
+}
+.f3{
+	font-family: "panforte";
+    color: black;
+    text-align: center;
+    font-size: 15pt;
+    margin-top: -40px;
+}
+@font-face{
+	font-family: "SHOWG";
+	src: url("../fonts/SHOWG.ttf");
+}
+.f4{
+	font-family: "SHOWG";
+    color: #ff9000;
+    font-size: 17pt;
+    padding-left: 101px;
+}
+.f41{
+	font-family: "SHOWG";
+    color: #ff9000;
+    font-size: 17pt;
+    padding-left: 101px;
+    margin-top: 27px;
+}
+.f5{
+	font-size: 12pt;
+    margin-left: 8px;
+    margin-top: -29px;
+}
+.f6{
+	font-family: "panforte";
+    color: black;
+    text-align: center;
+    font-size: 15pt;
+    margin-top: 5px;
+}
+.f7{
+	font-family: "panforte";
+    color: black;
+    text-align: center;
+    font-size: 15pt;
+    margin-top: 27px;
+}
+.bgrn3{
+	background-color: #D3D3D3;
+	width: 98.5vw;
+	height: 398px;
+	clear: both;
+	margin-top: 0px;
+}
+.img6{
+	width: 98.5vw;
+	height: 398px;
+}
+@font-face{
+	font-family: "nueva";
+	src: url("../fonts/nueva.ttf");
+}
+
+.f8{
+	font-family: "nueva";
+	color: #fff;
+	margin-left: 29px;
+    margin-top: -372px;
+    font-size: 29pt;
+}
+.textbox{
+	width: 569px;
+	height: 398px;
+	color: #fff;
+	opacity: 0px;
+	margin-left: 27px;
+}
+.f9{
+	font-family: "panforte";
+	color: #fff;
+	margin-left: 0px;
+	margin-top: 0px;
 }
