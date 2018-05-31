@@ -190,7 +190,7 @@ body{
 }	
 @font-face{
 	font-family: "SHOWG";
-	src: url("../fonts/SHOWG.ttf");
+	src: url("../fonts/SHOWG.TTF");
 }
 .f1{
 	font-family: "SHOWG";
@@ -328,9 +328,94 @@ box-shadow: 6px 6px 26px -4px rgba(0,0,0,0.75);
 	opacity: 0px;
 	margin-left: 27px;
 }
+.textbox1{
+	width: 569px;
+	height: 398px;
+	color: #fff;
+	opacity: 0px;
+	margin-left: 733px;
+	margin-top: 56px;
+}
 .f9{
 	font-family: "panforte";
 	color: #fff;
 	margin-left: 0px;
 	margin-top: 0px;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.bgrn4{
+	background-color: #D3D3D3;
+	width: 98.5vw;
+	height: 230px;
+	clear: both;
+}
+.img7{
+	height: 116px;
+    width: 273px;
+    margin-top: 23px;
+}
+@font-face{
+	font-family: "museo";
+	src: url("../fonts/museo.otf");
+}
+.f10{
+	font-family: "museo";
+    color: #fff;
+    font-size: 20pt;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.f101{
+	font-family: "museo";
+    color: #fff;
+    font-size: 11pt;
+    margin-left: 0px;
+    margin-top: -2px;
+}
+
+.circle{
+	background-color: #fff;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-top: 5px;
+}
+.img8{
+	width: 100px;
+	height:100px;
+	border-radius:100px;
+}
+.jarak1{
+	margin-left: 0px;
+}
+.jarak2{
+	margin-left: 25px;
+}
+.jarak4{
+	margin-left: 25px;
+    margin-top: 6px;
+}
+.jarak3{
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.jarak5{
+	margin-left: 25px;
+    margin-top: 10px;
+}
+.jarak6{
+	margin-left: 0px;
+    margin-top: 10px;
+}
+.foter{
+	margin-top: 17px;
+    margin-left: 536px;
+    text-align: center;
+    color: #fff;
+    font-size: 10pt;
 }
